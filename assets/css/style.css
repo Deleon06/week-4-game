@@ -1,0 +1,59 @@
+body {
+	background-image: url("../images/Scenery 1.jpg");
+	background-size: 100%;
+	z-index: 0;
+}
+
+#Goku {
+	padding: 15px;
+	background-image: url("../images/Goku 1.png");
+	background-size: 100%;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	float: left;
+	border: 5px solid white;
+	margin: 0;
+	
+}
+
+#Frieza {
+	padding: 15px;
+	background-image: url("../images/Frieza.png");
+	background-size: 100%;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	float: left;
+	border: 5px solid white;
+	margin: 0;
+}
+
+#Nappa {
+	padding: 15px;
+	background-image: url("../images/Nappa.png");
+	background-size: 100%;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	float: left;
+	border: 5px solid white;
+	margin: 0;
+}
+
+#Cell {
+	padding: 15px;
+	background-image: url("../images/Cell.png");
+	background-size: 100%;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	float: left;
+	border: 5px solid white;
+	margin: 0;
+}
+
+h3 {
+	text-align: center;
+
+}
